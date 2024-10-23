@@ -1,0 +1,127 @@
+Documentation Section
+NAME: R. VIVEK
+DATE: 
+DESCRIPTION: AddressBook
+
+Sample Input :
+
+Address Book Menu
+1.Create Contact
+2.Search Contact
+3.Edit Contact
+4.Delete Contact
+5.List All Contacts
+6.Save Contacts
+7.Exit
+
+Sample Output:
+
+
+1. Create Contact
+Enter your choice: 1
+Enter the name:
+vivek
+Enter the phone number:
+9025509082
+Enter the E-mail:
+gopivivek@gmail.com
+
+
+
+2. Search Contact
+Enter your choice: 2
+Select search option:
+1. Search by Name
+2. Search by Mobile Number
+3. Search by Email
+Enter your choice: 1
+Enter the name of the contact to search: vivek
+
+Contact found:
+Name: vivek
+Mobile No: 9025509082
+Mail id: gopivivek@gmail.com
+
+Enter your choice: 2
+Enter the mobile number to search:
+1231231234
+
+Contact found:
+Name: Sarah Connor
+Mobile No: 1231231234
+Mail id: sarah.connor@skynet.com
+
+Enter your choice: 3
+Enter the email to search:
+sarah.connor@skynet.com
+
+Contact found:
+Name: Sarah Connor
+Mobile No: 1231231234
+Mail id: sarah.connor@skynet.com
+
+
+3. Edit Contact
+
+Enter the option to edit:
+1. Name
+2. Mobile No
+3. Email
+
+Enter your choice: 1
+Enter the Name to Edit:
+vivek
+Enter the New Name:
+gopi
+Contact updated successfully.
+
+Enter your choice: 2
+Enter the Mobile No to edit:
+1231231234
+Enter the new mobile number:
+9087654543
+Mobile number updated successfully.
+
+Enter your choice: 3
+Enter the Email to edit:
+diana.prince@amazon.com
+Enter the new Email address:
+diana@gmail.com
+Email updated successfully.
+
+
+4. Delete Contact
+
+Enter your choice: 4
+Enter the option to delete:
+1. Name
+Enter your choice: 1
+Enter the name to delete:
+Clark Kent
+Contact with the name 'Clark Kent' has been deleted.
+
+
+5. List All Contacts
+
+Name: vivek
+Mobile No: 9025509082
+Mail id: gopivivek@gmail.com
+
+Name: Sarah Connor
+Mobile No: 9087654543 
+Mail id: sarah.connor@skynet.com
+
+Name: James Bond
+Mobile No: 0070070070
+Mail id: james.bond@mi6.uk
+
+Name: Natasha Romanoff
+Mobile No: 5554445555
+Mail id: natasha.romanoff@shield.gov
+
+
+6. Save Contacts
+
+File closed successfully. Contacts saved.
+Contacts saved successfully.
+
